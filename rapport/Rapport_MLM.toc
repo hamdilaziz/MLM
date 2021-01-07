@@ -1,0 +1,14 @@
+\babel@toc {french}{}
+\contentsline {chapter}{\numberline {1}Introduction}{2}{}%
+\contentsline {chapter}{\numberline {2}MLM}{3}{}%
+\contentsline {section}{\numberline {2.1}Définition}{3}{}%
+\contentsline {section}{\numberline {2.2}Phase d'entraînement }{3}{}%
+\contentsline {subsection}{\numberline {2.2.1}Formulation}{3}{}%
+\contentsline {subsection}{\numberline {2.2.2}Construire les matrices de distances}{3}{}%
+\contentsline {subsection}{\numberline {2.2.3}Construire le modèle}{4}{}%
+\contentsline {section}{\numberline {2.3}Phase de prédiction}{4}{}%
+\contentsline {section}{\numberline {2.4}Choix du paramètre K}{5}{}%
+\contentsline {section}{\numberline {2.5}Performances et Complexité}{5}{}%
+\contentsline {chapter}{\numberline {3}Expérimentations}{6}{}%
+\contentsline {chapter}{\numberline {4}Implémentation d'une version kernelizable}{7}{}%
+\contentsline {chapter}{\numberline {5}Conclusion}{8}{}%
