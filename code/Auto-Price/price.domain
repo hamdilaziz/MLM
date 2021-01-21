@@ -1,0 +1,16 @@
+symboling: nominal :                -3, -2, -1, 0, 1, 2, 3
+normalized-losses:        continuous
+wheel-base:               continuous
+length:                   continuous
+width:                    continuous
+height:                   continuous
+curb-weight:              continuous
+engine-size:              continuous
+bore:                     continuous
+stroke:                   continuous
+compression-ratio:        continuous
+horsepower:               continuous
+peak-rpm:                 continuous
+city-mpg:                 continuous
+highway-mpg:              continuous
+price:                    continuous
