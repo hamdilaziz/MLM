@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.11) (preloaded format=pdflatex 2020.11.27)  7 JAN 2021 15:42
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.11) (preloaded format=pdflatex 2020.11.27)  26 JAN 2021 22:59
 entering extended mode
 **./Rapport_MLM.tex
 (Rapport_MLM.tex
@@ -175,9 +175,27 @@ File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen156
 \Gin@req@width=\dimen157
+) (C:\Users\hamdi\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+(C:\Users\hamdi\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+(C:\Users\hamdi\AppData\Local\Programs\MiKTeX\tex/latex/graphics\dvipsnam.def
+File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
+))
 LaTeX Font Info:    Trying to load font information for OT1+LinuxLibertineT-TLF
- on input line 15.
+ on input line 16.
 
 (C:\Users\hamdi\AppData\Local\Programs\MiKTeX\tex/latex/libertine\ot1linuxliber
 tinet-tlf.fd
@@ -185,7 +203,7 @@ File: OT1LinuxLibertineT-TLF.fd 2017/03/20 (autoinst) Font definitions for OT1/
 LinuxLibertineT-TLF.
 )
 LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 12.0pt on input line 15.
+(Font)              scaled to size 12.0pt on input line 16.
 
 (C:\Users\hamdi\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
 tex.def
@@ -195,20 +213,20 @@ File: l3backend-pdftex.def 2020-09-24 L3 backend support: PDF output (pdfTeX)
 ) (Rapport_MLM.aux)
 \openout1 = `Rapport_MLM.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -244,13 +262,13 @@ LaTeX Font Info:    ... okay on input line 15.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Info: Redefining \degres on input line 15.
-LaTeX Info: Redefining \dots on input line 15.
-LaTeX Info: Redefining \up on input line 15.
+LaTeX Info: Redefining \degres on input line 16.
+LaTeX Info: Redefining \dots on input line 16.
+LaTeX Info: Redefining \up on input line 16.
 
 Package french.ldf Warning: OT1 encoding should not be used for French.
 (french.ldf)                Add \usepackage[T1]{fontenc} to the preamble
-(french.ldf)                of your document; reported on input line 15.
+(french.ldf)                of your document; reported on input line 16.
 
 \c@mv@tabular=\count198
 \c@mv@boldtabular=\count199
@@ -309,7 +327,7 @@ G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 504.
 )
 LaTeX Font Info:    Trying to load font information for OT1+LinuxBiolinumT-TLF 
-on input line 17.
+on input line 18.
 
 (C:\Users\hamdi\AppData\Local\Programs\MiKTeX\tex/latex/libertine\ot1linuxbioli
 numt-tlf.fd
@@ -317,37 +335,37 @@ File: OT1LinuxBiolinumT-TLF.fd 2017/03/20 (autoinst) Font definitions for OT1/L
 inuxBiolinumT-TLF.
 )
 LaTeX Font Info:    Font shape `OT1/LinuxBiolinumT-TLF/m/n' will be
-(Font)              scaled to size 12.0pt on input line 17.
+(Font)              scaled to size 12.0pt on input line 18.
 LaTeX Font Info:    Font shape `OT1/LinuxBiolinumT-TLF/m/sc' will be
-(Font)              scaled to size 12.0pt on input line 20.
+(Font)              scaled to size 12.0pt on input line 21.
 LaTeX Font Info:    Font shape `OT1/LinuxBiolinumT-TLF/m/sc' will be
-(Font)              scaled to size 20.74pt on input line 20.
+(Font)              scaled to size 20.74pt on input line 21.
 LaTeX Font Info:    Font shape `OT1/LinuxBiolinumT-TLF/m/sc' will be
-(Font)              scaled to size 17.28pt on input line 22.
+(Font)              scaled to size 17.28pt on input line 23.
 LaTeX Font Info:    Font shape `OT1/LinuxBiolinumT-TLF/m/n' will be
-(Font)              scaled to size 24.88pt on input line 26.
+(Font)              scaled to size 24.88pt on input line 27.
 LaTeX Font Info:    Font shape `OT1/LinuxBiolinumT-TLF/b/n' will be
-(Font)              scaled to size 24.88pt on input line 26.
+(Font)              scaled to size 24.88pt on input line 27.
 <SID.png, id=1, 578.16pt x 375.65344pt>
 File: SID.png Graphic file (type png)
 <use SID.png>
-Package pdftex.def Info: SID.png  used on input line 29.
+Package pdftex.def Info: SID.png  used on input line 30.
 (pdftex.def)             Requested size: 115.62994pt x 75.12935pt.
 LaTeX Font Info:    Font shape `OT1/LinuxBiolinumT-TLF/m/n' will be
-(Font)              scaled to size 14.4pt on input line 34.
+(Font)              scaled to size 14.4pt on input line 35.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 37.
+(Font)              <12> on input line 38.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 37.
+(Font)              <8> on input line 38.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 37.
+(Font)              <6> on input line 38.
  [1
 
 {C:/Users/hamdi/AppData/Local/MiKTeX/pdftex/config/pdftex.map} <./SID.png>]
 LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 24.88pt on input line 53.
+(Font)              scaled to size 24.88pt on input line 54.
 LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/b/n' will be
-(Font)              scaled to size 24.88pt on input line 53.
+(Font)              scaled to size 24.88pt on input line 54.
  (Rapport_MLM.toc
 LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/b/n' will be
 (Font)              scaled to size 12.0pt on input line 2.
@@ -364,88 +382,162 @@ Chapitre 1.
 ]
 Chapitre 2.
 LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 17.28pt on input line 58.
+(Font)              scaled to size 17.28pt on input line 59.
 LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/b/n' will be
-(Font)              scaled to size 17.28pt on input line 58.
+(Font)              scaled to size 17.28pt on input line 59.
 LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 14.4pt on input line 64.
+(Font)              scaled to size 14.4pt on input line 63.
 LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/b/n' will be
-(Font)              scaled to size 14.4pt on input line 64.
+(Font)              scaled to size 14.4pt on input line 63.
+<schema.png, id=19, 563.10374pt x 314.97675pt>
+File: schema.png Graphic file (type png)
+<use schema.png>
+Package pdftex.def Info: schema.png  used on input line 68.
+(pdftex.def)             Requested size: 405.43439pt x 226.78307pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 71--76
+Underfull \hbox (badness 10000) in paragraph at lines 64--69
 
  []
 
 [3
 
-]
-Underfull \hbox (badness 10000) in paragraph at lines 77--79
+ <./schema.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 76--78
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 90--94
+Underfull \hbox (badness 10000) in paragraph at lines 89--93
 
  []
 
-
-Overfull \hbox (11.77261pt too wide) in paragraph at lines 94--95
+[4]
+Overfull \hbox (11.77261pt too wide) in paragraph at lines 93--94
 []\OT1/LinuxLibertineT-TLF/m/n/12 Plusieurs al-go-rithmes de mi-ni-mi-sa-tion p
 euvent []etre uti-lis[]es mais le plus adap-ter pour ce probl[]eme
  []
 
 
-Overfull \hbox (11.71176pt too wide) in paragraph at lines 94--95
+Overfull \hbox (11.71176pt too wide) in paragraph at lines 93--94
 \OT1/LinuxLibertineT-TLF/m/n/12 est L'al-go-rithme de Levenberg-Marquardt qui p
 er-met de trou-ver une so-lu-tion num[]erique []a un probl[]eme
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 97--101
+Underfull \hbox (badness 10000) in paragraph at lines 96--100
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 97--101
-
- []
-
-[4]
-Underfull \hbox (badness 10000) in paragraph at lines 103--105
+Underfull \hbox (badness 10000) in paragraph at lines 96--100
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 108--111
+Underfull \hbox (badness 10000) in paragraph at lines 102--104
 
  []
 
-[5]
+
+Underfull \hbox (badness 10000) in paragraph at lines 107--110
+
+ []
+
+[5] [6]
 Chapitre 3.
-[6
 
-]
-Chapitre 4.
+Overfull \hbox (2.83742pt too wide) in paragraph at lines 117--119
+[]\OT1/LinuxLibertineT-TLF/m/n/12 Le seul hy-per pa-ram[]etre du Mi-ni-mal Lear
+-ning Ma-chine c'est []a dire le nombre de point r[]ef[]erence,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 117--119
+
+ []
+
+<regr.png, id=48, 226.446pt x 54.2025pt>
+File: regr.png Graphic file (type png)
+<use regr.png>
+Package pdftex.def Info: regr.png  used on input line 122.
+(pdftex.def)             Requested size: 224.18222pt x 53.66063pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 121--123
+
+ []
+
+<regr2.png, id=49, 326.4195pt x 202.356pt>
+File: regr2.png Graphic file (type png)
+<use regr2.png>
+Package pdftex.def Info: regr2.png  used on input line 125.
+(pdftex.def)             Requested size: 323.15628pt x 200.33305pt.
 [7
 
-]
-Chapitre 5.
+ <./regr.png>]
+<regr3.png, id=54, 323.40825pt x 199.34476pt>
+File: regr3.png Graphic file (type png)
+<use regr3.png>
+Package pdftex.def Info: regr3.png  used on input line 129.
+(pdftex.def)             Requested size: 320.17514pt x 197.3519pt.
+<classif.png, id=55, 208.98074pt x 65.043pt>
+File: classif.png Graphic file (type png)
+<use classif.png>
+Package pdftex.def Info: classif.png  used on input line 131.
+(pdftex.def)             Requested size: 206.89156pt x 64.39275pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 116--117
+Underfull \hbox (badness 10000) in paragraph at lines 131--132
 
  []
 
-[8
+
+Underfull \hbox (badness 10000) in paragraph at lines 131--132
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 132--133
+
+ []
+
+<classif2.png, id=56, 347.49825pt x 196.3335pt>
+File: classif2.png Graphic file (type png)
+<use classif2.png>
+Package pdftex.def Info: classif2.png  used on input line 133.
+(pdftex.def)             Requested size: 344.0243pt x 194.37074pt.
+[8 <./regr2.png> <./regr3.png> <./classif.png>]
+<classif3.png, id=63, 348.1005pt x 193.32225pt>
+File: classif3.png Graphic file (type png)
+<use classif3.png>
+Package pdftex.def Info: classif3.png  used on input line 135.
+(pdftex.def)             Requested size: 344.62054pt x 191.38962pt.
+<classif5.png, id=64, 682.34924pt x 214.401pt>
+File: classif5.png Graphic file (type png)
+<use classif5.png>
+Package pdftex.def Info: classif5.png  used on input line 139.
+(pdftex.def)             Requested size: 409.4127pt x 128.64159pt.
+<classif4.png, id=65, 601.0455pt x 87.9285pt>
+File: classif4.png Graphic file (type png)
+<use classif4.png>
+Package pdftex.def Info: classif4.png  used on input line 142.
+(pdftex.def)             Requested size: 480.83705pt x 70.34288pt.
+ [9 <./classif2.png> <./classif3.png> <./classif5.png> <./classif4.png>] [10]
+Chapitre 4.
+
+Underfull \hbox (badness 10000) in paragraph at lines 147--148
+
+ []
+
+[11
 
 ] (Rapport_MLM.aux) ) 
 Here is how much of TeX's memory you used:
- 5107 strings out of 479799
- 85140 string characters out of 2869722
- 379951 words of memory out of 3000000
- 22003 multiletter control sequences out of 15000+200000
+ 5703 strings out of 479799
+ 92533 string characters out of 2869722
+ 394170 words of memory out of 3000000
+ 22581 multiletter control sequences out of 15000+200000
  562754 words of font info for 71 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 70i,5n,76p,815b,424s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 70i,6n,76p,820b,424s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Users/hamdi/AppData/Local/Programs/MiKTeX/fonts/enc/dv
 ips/libertine/lbtn_oexx6f.enc}{C:/Users/hamdi/AppData/Local/Programs/MiKTeX/fon
 ts/enc/dvips/libertine/lbtn_lyu3x3.enc}{C:/Users/hamdi/AppData/Local/Programs/M
@@ -472,9 +564,9 @@ amdi/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/
 Users/hamdi/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10
 .pfb><C:/Users/hamdi/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/
 cm/cmsy8.pfb>
-Output written on Rapport_MLM.pdf (9 pages, 609668 bytes).
+Output written on Rapport_MLM.pdf (12 pages, 883975 bytes).
 PDF statistics:
- 113 PDF objects out of 1000 (max. 8388607)
+ 140 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 51 words of extra memory for PDF output out of 10000 (max. 10000000)
 
