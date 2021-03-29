@@ -30,7 +30,9 @@ def preprocessing(dataset):
 
 domain = pd.read_csv("Abalone/abalone.domain",delimiter=":", names=["column","type" ])# Pour charger les noms des dolonnes
 abalone = pd.read_csv("Abalone/abalone.data",names=domain.column.to_list()) # charher la dataset, 
-X,y = preprocessing(abalone)
+domain = pd.read_csv("Servo/servo.domain",delimiter=":", names=["column","type" ])
+servo = pd.read_csv("Servo/servo.data",names=domain.column.to_list())
+X,y = preprocessing(servo)
 
 
 y = y.reshape((len(y),1))
